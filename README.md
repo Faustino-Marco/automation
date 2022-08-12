@@ -9,6 +9,8 @@
 ### Links and Resources
 - back-end server url: tbd
 - front-end application: tbd
+- [Phone Numbers RegEx](https://stackoverflow.com/questions/3868753/find-usa-phone-numbers-in-python-script)
+- [Email Address RegEx](https://stackabuse.com/python-validate-email-address-with-regular-expressions-regex/)
 
 ### Setup
 <!-- .env requirements (where applicable) -->
@@ -17,7 +19,7 @@
 - PORT - Port Number
 - DATABASE_URL - URL to the running Postgres instance/db -->
 - How to initialize/run your application (where applicable) e.g. python main.py
-  - `scraper.py`
+  - `contact.py`
   - `pytest` (`test_scraper.py`)?
 - How to use your library (where applicable)
 - Tests
